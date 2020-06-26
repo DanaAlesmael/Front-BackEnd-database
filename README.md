@@ -5,10 +5,12 @@ The main focus in this task was linking to my data (directions) to a database (b
 For easiness, the inserted data was inserted once in the web instead of creating a table and then each was streamed to phpMyadmin.
 
 * The user has the ability to choose the function needed (delete, save, or start) after inserting a value. 
-* Pressing save button will result the inserted value by the user to be shown in the website once, streamed to phpMyadmin, and then disapeared after writing another one. This was done for easiness. [This can be seen by following the file named: tri.php]. 
+* Pressing save button will result the inserted value by the user to be shown in the website once, streamed to phpMyadmin, and then disapeared after writing another one. This was done for easiness. [The file named: (try2.php) can be used to display data only in the same web page + The file named: (main2.php) can do all required tasks and fetching single value each time to phpmyadmin].
+* 
 * Pressing start button will result a picture to be shown which indicates the direction that the robot should be moved to.  
 
 
 The following video was utilized as a reference to learn how data should be streamed to database from php file;
 * https://www.youtube.com/watch?v=-WiWjYnTmXM
 * https://www.w3schools.com/php/php_mysql_insert.asp
+* https://www.youtube.com/watch?v=XHyLF-ATxXM
