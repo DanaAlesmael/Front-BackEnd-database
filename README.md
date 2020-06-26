@@ -9,4 +9,6 @@ For easiness, the inserted data was inserted once in the web instead of creating
 * Pressing start button will result a picture to be shown which indicates the direction that the robot should be moved to.  
 
 
-The following video was utilized as a reference to learn how data should be streamed to database from php file; https://www.youtube.com/watch?v=-WiWjYnTmXM
+The following video was utilized as a reference to learn how data should be streamed to database from php file;
+* https://www.youtube.com/watch?v=-WiWjYnTmXM
+* https://www.w3schools.com/php/php_mysql_insert.asp
