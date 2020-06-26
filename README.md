@@ -5,7 +5,7 @@ The main focus in this task was linking to my data (directions) to a database (b
 For easiness, the inserted data was inserted once in the web instead of creating a table and then each was streamed to phpMyadmin.
 
 * The user has the ability to choose the function needed (delete, save, or start) after inserting a value. 
-* Pressing save button will result the inserted value by the user to be shown in the website once, streamed to phpMyadmin, and then disapeared after writing another one. This was done for easiness.
+* Pressing save button will result the inserted value by the user to be shown in the website once, streamed to phpMyadmin, and then disapeared after writing another one. This was done for easiness. [This can be seen by following the file named: tri.php]. 
 * Pressing start button will result a picture to be shown which indicates the direction that the robot should be moved to.  
 
 
