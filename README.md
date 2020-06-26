@@ -8,3 +8,5 @@ For easiness, the inserted data was inserted once in the web instead of creating
 * Pressing save button will result the inserted value by the user to be shown in the website once, streamed to phpMyadmin, and then disapeared after writing another one. This was done for easiness.
 * Pressing start button will result a picture to be shown which indicates the direction that the robot should be moved to.  
 
+
+The following video was utilized as a reference to learn how data should be streamed to database from php file; https://www.youtube.com/watch?v=-WiWjYnTmXM
