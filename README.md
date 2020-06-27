@@ -6,6 +6,7 @@ For easiness, the inserted data was inserted once in the web instead of creating
 
 * The user has the ability to choose the function needed (delete, save, or start) after inserting a value. 
 * Pressing save button will result the inserted value by the user to be shown in the website once, streamed to phpMyadmin, and then disapeared after writing another one. This was done for easiness. [The file named: (try2.php) can be used to display data only in the same web page + The file named: (main2.php) can do all required tasks and fetching single value each time to phpmyadmin].
+* Pressing delete button will result the data in a specific column to delete. This depends on where the user select to insert a value. 
 * Pressing start button will result a picture to be shown which indicates the direction that the robot should be moved to.  
 
 
