@@ -1,6 +1,7 @@
 # Front-BackEnd-database
 
 The main focus in this task was linking to my data (directions) to a database (based on phpMyadmin). The Frontend was coded using HTML and CSS to design the way the page looks while PHP language was utilized to activate the webs' functionalities such as allowing the user to insert values representing the movement distance, saving these data, displaying arrows, and so on. 
+* Method "Get" was utilized when making a form in the code to create a form. This was because some data needed to be displayed on the page before streaming it. As long as the data are not sensitive or should be private like the case when inserting a passowrd, this method should be fine. 
 
 For easiness, the inserted data was inserted once in the web instead of creating a table and then each was streamed to phpMyadmin.
 
